@@ -18,7 +18,7 @@ pip install torchvision torchaudio
 git clone https://github.com/pytorch/benchmark.git
 cd benchmark
 python install.py # install model
-pip install . # install torchbench
+# pip install . # install torchbench
 ```
 
 **NOTE:** `python install.py` will install ALL models. If you are only 
